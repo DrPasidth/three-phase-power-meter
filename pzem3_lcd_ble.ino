@@ -1,6 +1,6 @@
 /*
 esp32 Coding for Three Phase Power Meter
-use 74ls126 to multiplex Rx-Tx port for PZEM 3 modules
+use 74ls126 to multiplexing Rx-Tx port for PZEM 3 modules
 separate into 9 tabs: defines.h,ble.h,data,h,lcd.h,time.h,voids.h,wifi.h
 */
 
