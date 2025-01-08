@@ -103,3 +103,7 @@ if ($conn->query($sql) === TRUE) {
 $conn->close();
 ?>
 
+//----------------------------------------------
+example dashboard three-phase power meter
+http://137.184.86.182:3000/goto/m5rOg7DNk?orgId=137
+//----------------------------------------------
